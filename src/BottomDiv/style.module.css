@@ -1,0 +1,18 @@
+.bottomDiv {
+    display: flex;
+    padding-top: 10%;
+    justify-content: center;
+    gap: 5px;
+}
+
+.title {
+    font-weight: 600;
+}
+
+.text {
+    width: 80%;
+}
+
+.smallDiv {
+    width: 15%;
+}
